@@ -6,4 +6,4 @@ Author: Valentyn Smetanin
 
 Date: 10.29.19
 
-![Screenshot](https://github.com/valentynsmetanin/Todo-List/blob/master/todo_list.png=360x720)
+![Screenshot](https://github.com/valentynsmetanin/Todo-List/blob/master/todo_list.png)
