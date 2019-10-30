@@ -4,12 +4,12 @@ import 'package:todo_list/model/task.dart';
 import 'package:todo_list/screen/todolist/add_task_alert_dialog.dart';
 import 'package:todo_list/screen/todolist/remove_task_alert_dialog.dart';
 
-class TaskListWidget extends StatefulWidget {
+class TaskListPage extends StatefulWidget {
   @override
   State<StatefulWidget> createState() => TaskListState();
 }
 
-class TaskListState extends State<TaskListWidget> {
+class TaskListState extends State<TaskListPage> {
   final List<Task> _tasks = List<Task>();
   final TextStyle _unDoneTextStyle = TextStyle(fontSize: 18);
   final TextStyle _doneTextStyle =
